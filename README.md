@@ -50,8 +50,8 @@ Docker, Git, Postman, Cloudinary, Mongoose, JWT, Session Auth
 
 ## 📊 GitHub Stats
 
-![Thousif's GitHub stats](https://github-readme-stats.vercel.app/api?username=thousifahmedg&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thousifahmedg&layout=compact&theme=tokyonight)
+![Thousif's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitcatgattu&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitcatgattu&layout=compact&theme=tokyonight)
 
 ---
 

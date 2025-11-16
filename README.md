@@ -1,7 +1,6 @@
 # Hi there, I'm Thousif Ahmed 👋
 
 🚀 **MERN Stack Developer | AI Enthusiast **
-🚀 **MERN Stack Developer | AI Enthusiast Microsoft software**
 
 I’m a passionate software engineer who loves building impactful, user-focused applications.  
 From crafting scalable backend systems to creating smooth, engaging UI/UX, my focus is always on **delivering high-quality solutions that solve real problems**.
